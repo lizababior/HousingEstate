@@ -1,0 +1,114 @@
+
+
+java:S1192]"kDefine a constant instead of duplicating this literal "Command not recognised! Please, try again
+" 4 times.(½ë¨àüÿÿÿÿ8ƒ¾–ä/
+Z	java:S106k"9Replace this use of System.out or System.err by a logger.(ÖèÈÃşÿÿÿÿ8ƒ¾–ä/
+T	java:S106i"9Replace this use of System.out or System.err by a logger.(”Ú§?8ƒ¾–ä/
+U	java:S106q"9Replace this use of System.out or System.err by a logger.(“Ğ¥8ƒ¾–ä/
+[	java:S106˜"9Replace this use of System.out or System.err by a logger.(šì¼»øÿÿÿÿ8ƒ¾–ä/
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(¾ÙŸËøÿÿÿÿ8ƒ¾–ä/
+V	java:S106›"9Replace this use of System.out or System.err by a logger.(¥¢ïØ8ƒ¾–ä/
+Z	java:S106u"9Replace this use of System.out or System.err by a logger.(õœ÷»ıÿÿÿÿ8ƒ¾–ä/
+Y	java:S125"<This block of commented-out lines of code should be removed.(Š»ŠŠ8ƒ¾–ä/
+[	java:S106„"9Replace this use of System.out or System.err by a logger.(ˆ§ÊÜüÿÿÿÿ8ƒ¾–ä/
+N
+java:S1444"1Make this "public static currentDate" field final(óèŞ‚8çî¸/
+I
+java:S1481",Remove this unused "parkNum" local variable.(¸®ËÊ8¡Ö‰/
+U	java:S106z"9Replace this use of System.out or System.err by a logger.(î¤ß¯8ƒ¾–ä/
+[	java:S106"9Replace this use of System.out or System.err by a logger.(šì¼»øÿÿÿÿ8ƒ¾–ä/
+[	java:S106½"9Replace this use of System.out or System.err by a logger.(½ë¨àüÿÿÿÿ8ƒ¾–ä/
+V	java:S106€"9Replace this use of System.out or System.err by a logger.(’¯É®8ƒ¾–ä/
+R
+java:S1481"5Remove this unused "simpleDateFormat" local variable.(°×¹®8ö‹®®/
+[	java:S106Ä"9Replace this use of System.out or System.err by a logger.(½ë¨àüÿÿÿÿ8ƒ¾–ä/
+V	java:S106—"9Replace this use of System.out or System.err by a logger.(‚ø¯¿8ƒ¾–ä/
+U	java:S106v"9Replace this use of System.out or System.err by a logger.(¿Õ¯“8ƒ¾–ä/
+Z	java:S106|"9Replace this use of System.out or System.err by a logger.(òšëıÿÿÿÿ8ƒ¾–ä/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ãšæÉùÿÿÿÿ8ƒ¾–ä/
+Z	java:S106]"9Replace this use of System.out or System.err by a logger.(½ë¨àüÿÿÿÿ8˜Ä¯õ/
+Z	java:S106j"9Replace this use of System.out or System.err by a logger.(‡é«çúÿÿÿÿ8ƒ¾–ä/
+U	java:S106l"9Replace this use of System.out or System.err by a logger.(Øµ²‹8ƒ¾–ä/
+U	java:S106s"9Replace this use of System.out or System.err by a logger.(Üúş¸8ƒ¾–ä/
+Z	java:S106t"9Replace this use of System.out or System.err by a logger.(–•…ùÿÿÿÿ8ƒ¾–ä/
+[	java:S106¬"9Replace this use of System.out or System.err by a logger.(ÒÊåøÿÿÿÿ8ƒ¾–ä/
+T	java:S106{"9Replace this use of System.out or System.err by a logger.(ÿà[8ƒ¾–ä/
+U	java:S106r"9Replace this use of System.out or System.err by a logger.(‹ïäÃ8ƒ¾–ä/
+Q
+java:S1128"/Remove this unused import 'java.io.FileWriter'.(Ã‘ÅÃıÿÿÿÿ8ÃÖš¸/
+[	java:S106«"9Replace this use of System.out or System.err by a logger.(ïŞ¿³ùÿÿÿÿ8ƒ¾–ä/
+V	java:S106¨"9Replace this use of System.out or System.err by a logger.(‹ïäÃ8ƒ¾–ä/
+[	java:S106­"9Replace this use of System.out or System.err by a logger.(½ü‹üÿÿÿÿ8ƒ¾–ä/
+[	java:S106"9Replace this use of System.out or System.err by a logger.(¥¬Ğüÿÿÿÿ8ƒ¾–ä/
+Z	java:S106e"9Replace this use of System.out or System.err by a logger.(ë÷óŠúÿÿÿÿ8ƒ¾–ä/
+[	java:S106§"9Replace this use of System.out or System.err by a logger.(Ì‹İÿÿÿÿÿ8ƒ¾–ä/
+[	java:S106†"9Replace this use of System.out or System.err by a logger.(Úøæüÿÿÿÿ8ƒ¾–ä/
+V	java:S106©"9Replace this use of System.out or System.err by a logger.(Üúş¸8ƒ¾–ä/
+e
+java:S1192{"IDefine a constant instead of duplicating this literal "[\\[\\]]" 4 times.(ÿà[8ƒ¾–ä/
+[	java:S106ª"9Replace this use of System.out or System.err by a logger.(–•…ùÿÿÿÿ8ƒ¾–ä/
+t
+java:S1104"WMake currentDate a static final constant or non-public and provide accessors if needed.(óèŞ‚8çî¸/
+F
+java:S1128")Remove this unused import 'java.io.File'.(†Ğ¥Å8ÃÖš¸/
+[	java:S106¡"9Replace this use of System.out or System.err by a logger.(½ë¨àüÿÿÿÿ8ƒ¾–ä/
+a
+java:S1854"DRemove this useless assignment to local variable "simpleDateFormat".(°×¹®8ö‹®®/
+h
+java:S11921"KDefine a constant instead of duplicating this literal "2021-06-05" 3 times.(†ûåµ8Û“†¡/
+h
+java:S11921"KDefine a constant instead of duplicating this literal "2021-01-10" 3 times.(†ûåµ8Û“†¡/
+T
+java:S1854E"7Remove this useless assignment to local variable "ap5".(À› 8Û“†¡/
+T
+java:S1854D"7Remove this useless assignment to local variable "ap4".(º¥ùñ8Û“†¡/
+Y
+java:S1854C"7Remove this useless assignment to local variable "ap3".(¿«’ÿÿÿÿÿ8Û“†¡/
+Y
+java:S1854B"7Remove this useless assignment to local variable "ap2".(”ôÈ ÿÿÿÿÿ8Û“†¡/
+T
+java:S1854A"7Remove this useless assignment to local variable "ap1".(ø“­Õ8Û“†¡/
+U
+java:S1854?"8Remove this useless assignment to local variable "date".(ŠÒ¥á8Û“†¡/
+T
+java:S18545"7Remove this useless assignment to local variable "ps5".(–ş¯¿8Û“†¡/
+X
+java:S1854/"6Remove this useless assignment to local variable "i5".(ğ›Ï×ÿÿÿÿÿ8Û“†¡/
+S
+java:S1854."6Remove this useless assignment to local variable "i4".(×ü…ç8Û“†¡/
+R
+java:S1854-"6Remove this useless assignment to local variable "i3".(ì‡Œ8Û“†¡/
+S
+java:S1854)"6Remove this useless assignment to local variable "v5".(»€ŞÏ8Û“†¡/
+S
+java:S1854("6Remove this useless assignment to local variable "v4".(”ƒìÉ8Û“†¡/
+S
+java:S1854'"6Remove this useless assignment to local variable "v3".(ÑŒ«Ç8Û“†¡/
+X	java:S1259"<This block of commented-out lines of code should be removed.(»µßè8Û“†¡/
+D
+java:S1481'"'Remove this unused "v3" local variable.(ÑŒ«Ç8Û“†¡/
+D
+java:S1481("'Remove this unused "v4" local variable.(”ƒìÉ8Û“†¡/
+D
+java:S1481)"'Remove this unused "v5" local variable.(»€ŞÏ8Û“†¡/
+C
+java:S1481-"'Remove this unused "i3" local variable.(ì‡Œ8Û“†¡/
+D
+java:S1481."'Remove this unused "i4" local variable.(×ü…ç8Û“†¡/
+I
+java:S1481/"'Remove this unused "i5" local variable.(ğ›Ï×ÿÿÿÿÿ8Û“†¡/
+E
+java:S14815"(Remove this unused "ps5" local variable.(–ş¯¿8Û“†¡/
+F
+java:S1481?")Remove this unused "date" local variable.(ŠÒ¥á8Û“†¡/
+E
+java:S1481A"(Remove this unused "ap1" local variable.(ø“­Õ8Û“†¡/
+J
+java:S1481B"(Remove this unused "ap2" local variable.(”ôÈ ÿÿÿÿÿ8Û“†¡/
+J
+java:S1481C"(Remove this unused "ap3" local variable.(¿«’ÿÿÿÿÿ8Û“†¡/
+E
+java:S1481D"(Remove this unused "ap4" local variable.(º¥ùñ8Û“†¡/
+E
+java:S1481E"(Remove this unused "ap5" local variable.(À› 8Û“†¡/

@@ -1,0 +1,11 @@
+
+R
+java:S1128"0Remove this unused import 'java.time.LocalDate'.(›‘¬èıÿÿÿÿ8öƒ·/
+W
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8­æÇ°/
+c
+java:S2142 "FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8Ñ×Î«/
+T
+java:S1128"2Remove this unused import 'javax.xml.crypto.Data'.(¦¿çˆıÿÿÿÿ8¡Á…­/
+8
+java:S3626!"Remove this redundant jump.(ûÁİ…8Ñ×Î«/

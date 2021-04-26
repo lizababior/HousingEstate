@@ -1,0 +1,66 @@
+
+h
+java:S1192L"KDefine a constant instead of duplicating this literal "2021-01-01" 5 times.(ŠªÙ8·½Ô±/
+Y
+java:S1854"7Remove this useless assignment to local variable "ps1".(‡¦–³şÿÿÿÿ8ıÊ¶±/
+D
+java:S1481!"'Remove this unused "v5" local variable.(»€ŞÏ8öß¨º/
+T
+java:S14810"2Remove this unused "housingEstate" local variable.(©¢¤Øıÿÿÿÿ8è’¹ã/
+a
+java:S1854H"?Remove this useless assignment to local variable "passingTime".(§„íÜùÿÿÿÿ8Èù³³/
+J
+java:S1481"(Remove this unused "ps1" local variable.(‡¦–³şÿÿÿÿ8ıÊ¶±/
+M
+java:S14812"+Remove this unused "ap_arr" local variable.(˜¾ÎÃüÿÿÿÿ8ûÌ¸©/
+m
+java:S1192O"KDefine a constant instead of duplicating this literal "2021-03-03" 4 times.(Ï˜±şÿÿÿÿ8åÔ±/
+X
+java:S1854'"6Remove this useless assignment to local variable "i5".(ğ›Ï×ÿÿÿÿÿ8¢Ïªº/
+X	java:S1254"<This block of commented-out lines of code should be removed.(ÍûÊ›8ûÌ¸©/
+R
+java:S1481"5Remove this unused "simpleDateFormat" local variable.(°×¹®8ş­¯®/
+m
+java:S1192"KDefine a constant instead of duplicating this literal "2021-05-03" 5 times.(‡¦–³şÿÿÿÿ8àæ‰®/
+k	java:S1172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜¾ÎÃüÿÿÿÿ
+\
+java:S18542":Remove this useless assignment to local variable "ap_arr".(˜¾ÎÃüÿÿÿÿ8ûÌ¸©/
+D
+java:S1481 "'Remove this unused "v4" local variable.(”ƒìÉ8öß¨º/
+S
+java:S11972"8Move the array designator from the variable to the type.(˜¾ÎÃüÿÿÿÿ
+m
+java:S1192"KDefine a constant instead of duplicating this literal "2021-10-01" 5 times.(‡¦–³şÿÿÿÿ8àæ‰®/
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8€¾õ/
+D
+java:S1481"'Remove this unused "v3" local variable.(ÑŒ«Ç8öß¨º/
+C
+java:S1481%"'Remove this unused "i3" local variable.(ì‡Œ8¢Ïªº/
+I
+java:S1481"'Remove this unused "t2" local variable.(õü§›ùÿÿÿÿ8ˆ›ê±/
+R
+java:S1481H"0Remove this unused "passingTime" local variable.(§„íÜùÿÿÿÿ8Èù³³/
+S
+java:S1854!"6Remove this useless assignment to local variable "v5".(»€ŞÏ8öß¨º/
+X
+java:S1854"6Remove this useless assignment to local variable "t2".(õü§›ùÿÿÿÿ8ˆ›ê±/
+c
+java:S18540"ARemove this useless assignment to local variable "housingEstate".(©¢¤Øıÿÿÿÿ8è’¹ã/
+X	java:S125)"<This block of commented-out lines of code should be removed.(ş®µê8Ó·µ±/
+X	java:S125F"<This block of commented-out lines of code should be removed.(å±‚Ì8à­ğ°/
+S
+java:S1854$"6Remove this useless assignment to local variable "i2".(¹¹ğø8¢Ïªº/
+S
+java:S1854 "6Remove this useless assignment to local variable "v4".(”ƒìÉ8öß¨º/
+a
+java:S1854"DRemove this useless assignment to local variable "simpleDateFormat".(°×¹®8ş­¯®/
+S
+java:S1854"6Remove this useless assignment to local variable "v3".(ÑŒ«Ç8öß¨º/
+I
+java:S1481'"'Remove this unused "i5" local variable.(ğ›Ï×ÿÿÿÿÿ8¢Ïªº/
+D
+java:S1481$"'Remove this unused "i2" local variable.(¹¹ğø8¢Ïªº/
+]	java:S125I"<This block of commented-out lines of code should be removed.(ê˜°“ûÿÿÿÿ8óÙ­·/
+R
+java:S1854%"6Remove this useless assignment to local variable "i3".(ì‡Œ8¢Ïªº/

@@ -1,0 +1,72 @@
+
+E
+java:S1481""(Remove this unused "ps5" local variable.(–ş¯¿8øĞ•ö/
+J
+java:S1481."(Remove this unused "ap3" local variable.(¿«’ÿÿÿÿÿ8øĞ•ö/
+U
+java:S1444	"3Make this "public static housingEstate" field final(ôÊşÏşÿÿÿÿ8²Õö/
+X
+java:S1854"6Remove this useless assignment to local variable "i5".(ğ›Ï×ÿÿÿÿÿ8øĞ•ö/
+T
+java:S1854""7Remove this useless assignment to local variable "ps5".(–ş¯¿8øĞ•ö/
+S
+java:S1854"6Remove this useless assignment to local variable "v5".(»€ŞÏ8øĞ•ö/
+S
+java:S1854"6Remove this useless assignment to local variable "t4".(–µ¹¥8Øô—ö/
+T
+java:S1854/"7Remove this useless assignment to local variable "ap4".(º¥ùñ8øĞ•ö/
+D
+java:S1481"'Remove this unused "v3" local variable.(ÑŒ«Ç8øĞ•ö/
+I
+java:S1481"'Remove this unused "i5" local variable.(ğ›Ï×ÿÿÿÿÿ8øĞ•ö/
+E
+java:S1481,"(Remove this unused "ap1" local variable.(ø“­Õ8øĞ•ö/
+V
+java:S1118":Add a private constructor to hide the implicit public one.(×Æ#8²Õö/
+E
+java:S1481/"(Remove this unused "ap4" local variable.(º¥ùñ8øĞ•ö/
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8Øô—ö/
+I
+java:S1481"'Remove this unused "t5" local variable.(ë¿š“şÿÿÿÿ8Øô—ö/
+X	java:S125&"<This block of commented-out lines of code should be removed.(»µßè8øĞ•ö/
+J
+java:S1481-"(Remove this unused "ap2" local variable.(”ôÈ ÿÿÿÿÿ8øĞ•ö/
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8Øô—ö/
+S
+java:S1854"6Remove this useless assignment to local variable "i4".(×ü…ç8øĞ•ö/
+S
+java:S1854"6Remove this useless assignment to local variable "v4".(”ƒìÉ8øĞ•ö/
+X
+java:S1854"6Remove this useless assignment to local variable "t5".(ë¿š“şÿÿÿÿ8Øô—ö/
+T
+java:S1854,"7Remove this useless assignment to local variable "ap1".(ø“­Õ8øĞ•ö/
+D
+java:S1481"'Remove this unused "i4" local variable.(×ü…ç8øĞ•ö/
+C
+java:S1481"'Remove this unused "i3" local variable.(ì‡Œ8øĞ•ö/
+Y
+java:S1854."7Remove this useless assignment to local variable "ap3".(¿«’ÿÿÿÿÿ8øĞ•ö/
+Y
+java:S1854-"7Remove this useless assignment to local variable "ap2".(”ôÈ ÿÿÿÿÿ8øĞ•ö/
+h
+java:S1192"KDefine a constant instead of duplicating this literal "2021-01-10" 3 times.(†ûåµ8øĞ•ö/
+h
+java:S1192"KDefine a constant instead of duplicating this literal "2021-06-05" 3 times.(†ûåµ8øĞ•ö/
+{
+java:S1104	"YMake housingEstate a static final constant or non-public and provide accessors if needed.(ôÊşÏşÿÿÿÿ8²Õö/
+S
+java:S1854"6Remove this useless assignment to local variable "v3".(ÑŒ«Ç8øĞ•ö/
+D
+java:S1481"'Remove this unused "t4" local variable.(–µ¹¥8Øô—ö/
+T
+java:S18540"7Remove this useless assignment to local variable "ap5".(À› 8øĞ•ö/
+D
+java:S1481"'Remove this unused "v5" local variable.(»€ŞÏ8øĞ•ö/
+R
+java:S1854"6Remove this useless assignment to local variable "i3".(ì‡Œ8øĞ•ö/
+D
+java:S1481"'Remove this unused "v4" local variable.(”ƒìÉ8øĞ•ö/
+E
+java:S14810"(Remove this unused "ap5" local variable.(À› 8øĞ•ö/

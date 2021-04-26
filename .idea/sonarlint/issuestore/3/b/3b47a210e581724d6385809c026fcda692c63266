@@ -1,0 +1,19 @@
+
+N	java:S106G"9Replace this use of System.out or System.err by a logger.(äè™Ì
+Z	java:S106T"9Replace this use of System.out or System.err by a logger.(©ğ¨Óüÿÿÿÿ8Ñ…ï²/
+R
+java:S2209"5Change this instance-reference to a static reference.(¨öş«8½§Êä/
+R
+java:S2209-"5Change this instance-reference to a static reference.(¨öş«8·İÊä/
+R
+java:S2209"5Change this instance-reference to a static reference.(¨öş«8·İÊä/
+R
+java:S2209%"5Change this instance-reference to a static reference.(¨öş«8·İÊä/
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(äÿÏ÷øÿÿÿÿ
+S	java:S106="9Replace this use of System.out or System.err by a logger.(•ø˜Úûÿÿÿÿ
+[	java:S107"AConstructor has 8 parameters, which is greater than 7 authorized.(öÜÇüÿÿÿÿ
+S	java:S106F"9Replace this use of System.out or System.err by a logger.(•ø˜Úûÿÿÿÿ
+J
+java:S1068"-Remove this unused "rentalFee" private field.(£ÜŒ›8é‰ÄŠ/
+’
+java:S13194"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ìğ¯ƒÿÿÿÿÿ8äÔé¹/

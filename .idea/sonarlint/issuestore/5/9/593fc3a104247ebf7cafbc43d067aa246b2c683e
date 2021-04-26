@@ -1,0 +1,26 @@
+
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(²íœñøÿÿÿÿ8Çî´õ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(™ïª…8÷£ğõ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¤¶ƒÉüÿÿÿÿ8ÛÌÚõ/
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(Úøæüÿÿÿÿ8œÄä/
+K
+java:S2201.")The return value of "parse" must be used.(Òù‰›øÿÿÿÿ8„ªä/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(èµñ¢øÿÿÿÿ8Œüö/
+W
+java:S1118":Add a private constructor to hide the implicit public one.(Ìì¢Ï8³Æ¤ä/
+]	java:S125"<This block of commented-out lines of code should be removed.(·ïÏÿÿÿÿÿ8ñïõ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‰¦½Çûÿÿÿÿ8ØÓõ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(šå¯‘8ØÓõ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ç Éğüÿÿÿÿ8ÛÌÚõ/
+K
+java:S2201,")The return value of "parse" must be used.(Òù‰›øÿÿÿÿ8ƒ¼¦ä/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÕÉœñ8÷£ğõ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ú²İûÿÿÿÿ8Çî´õ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(çºù8ÛÌÚõ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(•ì»8ØÓõ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ËŞ‘‰şÿÿÿÿ8Çî´õ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Šæà™ıÿÿÿÿ8ØÓõ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¯ìÒŞ8÷£ğõ/
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(ˆ§ÊÜüÿÿÿÿ8œÄä/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ğ¡åß8ÛÌÚõ/

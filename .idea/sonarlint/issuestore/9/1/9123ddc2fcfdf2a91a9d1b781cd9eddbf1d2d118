@@ -1,0 +1,21 @@
+
+U	java:S1064"9Replace this use of System.out or System.err by a logger.(Ş¥°Æ8ÿ“†ä/
+’
+java:S1319#"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¸¿½ùÿÿÿÿ8õÄ²/
+k
+java:S1192\"IDefine a constant instead of duplicating this literal "[\\[\\]]" 3 times.(áŠ¡§şÿÿÿÿ8ÿ“†ä/
+`
+java:S1155c">Use isEmpty() to check whether the collection is empty or not.(ùŸéåøÿÿÿÿ8ÿ“†ä/
+F
+java:S1068"+Remove this unused "address" private field.(÷§ùÿÿÿÿ
+’
+java:S1319'"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(µÅèúøÿÿÿÿ8Û˜²/
+`
+java:S1155[">Use isEmpty() to check whether the collection is empty or not.(—”Ïøûÿÿÿÿ8ÿ“†ä/
+n
+java:S2095T"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(îŞÀ‘ûÿÿÿÿ8ÿ“†ä/
+`
+java:S1155]">Use isEmpty() to check whether the collection is empty or not.(ßç÷¢ÿÿÿÿÿ8ÿ“†ä/
+U	java:S106?"9Replace this use of System.out or System.err by a logger.(Ş¥°Æ8¥×‘ä/
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(°éÛŒÿÿÿÿÿ

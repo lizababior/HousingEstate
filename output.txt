@@ -1,0 +1,66 @@
+
+Liza Babior (59336) rooms:
+Parking Space 1 (volume:50.0) content:
+
+Apartment 1 (volume:50.0) content:
+Victor Trippel (32936), 
+Anastasia Key (35876), 
+Whitney Goodman (33601), 
+Anastasia Key (35876)
+
+Letters:
+TenantLetter 
+Apartment 1 (volume:50.0). Apartment, 
+TenantLetter 
+Apartment 1 (volume:50.0). Apartment
+
+
+
+Karyna Bartashevich (18774) rooms:
+Parking Space 2 (volume:60.0) content:
+Amphibious Sherp N, number of axles=4 (volume:20.0), 
+Boat Caparral, people capacity=8 (volume:13.0), 
+Motorcycle Kawasaki, engine volume=300.0 (volume:6.0)
+
+Apartment 2 (volume:100.0) content:
+
+
+
+
+Oliver Smith (85516) rooms:
+Apartment 3 (volume:75.0) content:
+
+Apartment 4 (volume:200.0) content:
+
+
+
+
+Jack Jones (70987) rooms:
+Apartment 5 (volume:60.0) content:
+
+
+
+
+Harry Williams (53008) rooms:
+
+
+
+Victor Trippel (32936) rooms:
+
+
+
+Anastasia Key (35876) rooms:
+
+
+
+Whitney Goodman (33601) rooms:
+
+
+
+Tiernan Stevenson (48473) rooms:
+
+
+
+Zaynab Duggan (32763) rooms:
+
+

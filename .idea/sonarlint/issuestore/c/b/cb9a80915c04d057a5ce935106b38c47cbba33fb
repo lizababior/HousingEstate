@@ -1,0 +1,19 @@
+
+Z	java:S106j"9Replace this use of System.out or System.err by a logger.(ïƒı‹úÿÿÿÿ8Œ˜°/
+[	java:S106œ"9Replace this use of System.out or System.err by a logger.(ø¹…şÿÿÿÿ8«µ«â/
+
+java:S1319;"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÌÕ«Ç8û­›­/
+V	java:S106‘"9Replace this use of System.out or System.err by a logger.(éÛš8ß—…²/
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8»åà°/
+[	java:S106„"9Replace this use of System.out or System.err by a logger.(¶æ›³øÿÿÿÿ8–úŒ°/
+T	java:S106~"9Replace this use of System.out or System.err by a logger.(ÍÇ¿8Ñ¶±/
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(µˆÃºşÿÿÿÿ8»ºš±/
+Z	java:S106f"9Replace this use of System.out or System.err by a logger.(ïƒı‹úÿÿÿÿ8ûÙ›°/
+’
+java:S1319I"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(°‡ ƒøÿÿÿÿ8Â™İä/
+|
+java:S1210¢"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(È¾ïüıÿÿÿÿ8–úŒ°/
+’
+java:S1319?"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ò«µ“ıÿÿÿÿ8ÔÖÓä/
