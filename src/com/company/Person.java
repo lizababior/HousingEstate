@@ -20,7 +20,7 @@ public class Person {
         this.surname = surname;
         this.pesel = pesel;
         this.address = address;
-        letters = new ArrayList<TenantLetter>();
+        letters = new ArrayList<>();
         rentedRooms = new ArrayList<>();
         allPeople.add(this);
     }
@@ -31,7 +31,7 @@ public class Person {
         Random r = new Random();
         this.pesel = 10000 + r.nextInt(90000);
         this.address = address;
-        letters = new ArrayList<TenantLetter>();
+        letters = new ArrayList<>();
         rentedRooms = new ArrayList<>();
         allPeople.add(this);
     }
@@ -107,6 +107,11 @@ public class Person {
             }
         }
     }
+
+    public void removeRoom(Room room) {
+        rentedRooms.remove(room);
+    }
+
 
     public static void writeToFile() throws IOException {
         FileWriter fw = new FileWriter(Main.FILENAME, false);

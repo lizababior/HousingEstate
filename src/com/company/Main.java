@@ -15,8 +15,8 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         int command;
 
-        PassingTime passingTime = new PassingTime(200);
-        passingTime.start();
+        //PassingTime passingTime = new PassingTime(200);
+        //passingTime.start();
 
         //Main menu
         Init.create();
