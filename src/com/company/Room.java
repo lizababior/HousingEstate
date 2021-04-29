@@ -166,6 +166,7 @@ public class Room implements Comparable<Room> {
         if (period.getDays() <= 30 || period.getMonths() <= 1) {
             System.out.println("Rent was renewed, last end:" + this.endDate + ", current end:" + endDate);
             this.endDate = endDate;
+
             this.tenant.removeLetter(this);
         } else {
             System.out.println("Rent can't be renewed, it's been " + period.getDays() + " days after expiring");
@@ -176,9 +177,11 @@ public class Room implements Comparable<Room> {
         Period period = Period.between(this.getEndDate(), Main.currentDate);
         if (period.getDays() <= 30 && period.getMonths() < 1) {
             this.tenant.removeLetter(this);
+            this.tenant.removeRoom(this);
             deleteTenant();
             System.out.println("Rent rent is canceled");
         } else {
+            this.tenant.removeRoom(this);
             deleteTenant();
             System.out.println("Rent rent is canceled, but tenant letter remains");
         }

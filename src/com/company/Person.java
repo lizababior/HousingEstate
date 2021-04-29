@@ -108,6 +108,10 @@ public class Person {
         }
     }
 
+    public void removeRoom(Room room) {
+        rentedRooms.remove(room);
+    }
+
     public static void writeToFile() throws IOException {
         FileWriter fw = new FileWriter(Main.FILENAME, false);
         BufferedWriter bw = new BufferedWriter(fw);
